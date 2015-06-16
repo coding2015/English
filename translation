@@ -1,0 +1,9 @@
+#!/usr/bin/python
+#长难句、望文生义句分析
+#
+
+@Se: Indexing off the end of a list is always a mistake, but so is assigning off
+the end
+	@Parse: off the end:超出边界，边界外的
+	@Trans; 超出列表末尾之外的索引总是引起错误，超出末尾之外的赋值也是如此
+	@难点： 断句误区，off 容易与前面的动词结合一起翻译	 

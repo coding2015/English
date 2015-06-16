@@ -1,0 +1,144 @@
+#!/bin/bash
+
+legacy	#遗产，传统
+vein	#静脉，叶脉，风格，迹象
+		#in the same vein:同样的风格、方式等
+concatenate	#连接
+shadow	#阴影，隐蔽
+tricky	#困难的，复杂的，棘手的；狡猾的
+maturity	#成熟，完备，到期
+bond	#债券，结合，约定，粘合剂
+designate	#指定，指派
+design	#设计
+callable	#可呼叫的，可调用的；随时可偿还的，请求即付的
+round	#v.绕行，弄圆，四舍五入
+chop	#砍，排骨，商标
+comma	#逗号
+period	#句号
+cite	#引用，引证，传讯，提起，表彰
+quote	#引号；引用，引述，报价
+quotation	#引号
+punctuation	#标点
+punctuate	#打断，强调，加标点
+punctual	#准时的
+burger	#汉堡包
+act		#n.表象，装腔作势；It's all an act.
+typo	#(pl.typos)排印错误
+escape sequences	#转义序列
+self-paced	#自定义速度
+annotate	#注释
+comment		#注释，解释，评论
+hands-on	#实作，亲身实践
+standalone	#独立的，单独的；单机
+component 	#成分，组件；[电子]元件
+syntax	#语法，句法
+model	#模型，模式，模特
+procedure	#程序，手续，步骤
+procedural	#程序上的
+prominent	#重要的，显著的，突出的
+bite-sized	#一口能吃下的，很短的
+chunk	#大块，语块，数据块，区块
+augment	#增加
+argument	#参数，论据，争吵
+quiz	#(pl. quizzes)小测验，知识竞赛；盘问
+crusty  #易怒的，执拗的
+veteran  #老手
+insult  #辱骂
+dummy	#傻瓜，笨蛋，人体模型
+scope   #范围，视野，机会，能力；-scope 显微镜，望远镜
+self-contained		#自给自足的，独门独院的
+contain		 #包含，克制
+nevertheless 	 #尽管如此
+remiss  	#懈怠的
+address  	#处理，满足，致力于
+incorporate  	#纳入，合并
+compatible  	#兼容
+incompatible  	#不兼容
+paradigm  	#[计]范式，范例，一组词形变化
+plethora  	#n. 过多
+redundancy 	 #n. 失业，解雇，冗余，多余
+daunt  	#使人畏惧
+up front  	#预付，在前面，显眼的，坦率的，预先地
+longstanding   #存在已久的
+dated  	#过时的
+cruft   #[计]不整齐的部分，令人讨厌的东西
+tradeoff  	#权衡
+inherent  	#固有的，内在的
+comprehensive  	#全面的，综合的，绝对的
+substantial  	#显著的，客观的，重要的，真实的
+platform neutral  	#与平台无关的，neutral 中立的
+on the fly  	#飞快地
+the first rule of thumb  #第一原则（由经验或实践得来）
+fire up  #启动、运行（设备/机器/程序）
+indent   #缩进
+indentation   #缩进
+yet  #到目前为止；还，仍然
+unnested  #非嵌套的
+limbo   #待定状态
+merit   #值得
+bear in mind   #记在心里
+from scratch   #从零开始
+terminology   #术语
+term   #术语
+domain   #领域
+somewhat  #有点
+bet  #推测，选择，打赌，赌注
+your best bet   #最好的办法
+rote  #死记硬背
+imitation   #模仿
+inspection   #检查，检阅
+erratum   #(pl. errata) 勘误，排错
+overview  #概述
+pragmatic  #务实的
+cite   #引用，印证，传讯，提起，表彰
+quote   #引用，引述，报价；句号(=quotation)
+period   #句号(.)，时期，周期
+punctuate   #打断，强调，加标点
+punctual   #准时的
+punctuation   #标点
+Gllipsis	#pl.ellipses 省略号
+handy   #有用的，便利的，容易取得的	
+widget    #小器具，小装置
+gadget    #小玩意，小配件，小工具
+retrieve     #检索，读取，恢复，重新得到
+template     #模板，样板
+invocation   #祈求，[计]调用(函数等)
+builtin      #内建指令/函数
+subsequently  #随后
+prompt   #提示，促进，激起
+indirection    #间接
+decode    #解码，译码
+premise   #前提，under the premise
+split    #分离，分开
+parse   #做语法分析
+repository   #[计]仓库；储藏室，智囊人物，知识库
+format	#格式
+tuple	#元组,array tuple：元组，数组
+enumerate #枚举，列举
+attribute	#n.属性; v.归属
+indice	#索引，下标，指数
+index	#索引
+keep sb on their toes	#保持警觉
+exception	#例外，异常
+evolve	#发展，进化
+evolution	#进化
+conjugate	#共轭的，结对的；结合
+descriptor	#描述符，描述元
+common		#共同的，普通的
+coerce		#co.erce, 强迫，强制；coercion:强迫，[计]强制转换
+ordinal		#顺序的，依次的；序数
+patibal		#兼容，相容；backward patible 向后兼容
+keep legacy code from breaking 	#向后兼容
+eat one's' own dog food		#内测，测试
+string literal		#字符串常量
+doodle			#涂鸦
+interface		#界面，交互
+prentice		#学徒
+dominant		#支配的，首要的显眼的
+renowned		#著名的
+comprehensive	#全面的，综合的
+day-to-day		#每天的，日常的
+day by day		#一天又一天，逐日
+seasoned		#经验丰富的
+no-nonsense		#明智的，直截了当的
+superfluous		#多余的
