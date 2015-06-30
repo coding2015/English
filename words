@@ -149,3 +149,7 @@ immutable		#不可变的
 sepcify			#指定，详细说明
 manipulate		#操纵，操作，篡改
 case sensitive	#大小写敏感
+junior			#初级， elementary, beginner, primary
+intermediate	#中级的
+advanced		#高级的
+
